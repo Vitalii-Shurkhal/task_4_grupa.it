@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    height: 100vh;
+    background: url('../img/piture-test.jpg');
+    background-size: cover;
+}
